@@ -1,6 +1,7 @@
 {
   "name": "cv-project-hook",
   "version": "0.1.0",
+  "homepage": "https://cel8.github.io/top_cv_app_hook",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
