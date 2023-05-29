@@ -5,4 +5,4 @@ Learning:
 - ReactJS
 - Hooks
 
-Live demo [here](https://cel8.github.io/top_cv_app/).
+Live demo [here](https://github.com/cel8/top_cv_app_hook/).
