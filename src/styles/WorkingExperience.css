@@ -1,0 +1,23 @@
+.work-item-form {
+  display: grid;
+  grid-template-columns: 25vh 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  gap: 0.5rem;
+}
+
+.company {
+  display: flex;
+  gap: 0.1rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.position,
+.company {
+  font-size: large;
+}
+
+.position,
+.companyname {
+  font-weight: 600;
+}
